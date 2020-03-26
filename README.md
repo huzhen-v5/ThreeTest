@@ -1,8 +1,19 @@
-three.js的demo学习
+three.js的demo学习之路
+学习demo的网站链接：http://www.webgl3d.cn/threejs/docs/index.html
 
-# 说明
-启动express的server服务 <br>
-根目录下运行：<br>
+# 环境
+首先，你需要本机先安装node和cnpm <br>
+
+步骤一：安装依赖<br>
+```
+cnpm i
+```
+步骤二：全局安装webpack
+```
+cnpm i webpack -g
+cnpm i webpack-cli -g
+```
+步骤三：启动服务<br>
 ```
 node app.js
 ```
